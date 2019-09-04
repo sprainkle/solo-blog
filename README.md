@@ -11,7 +11,6 @@ sprainkle 的个人博客
 ### 最新
 
 * [CentOS 安装 Docker CE](https://blog.sprainkle.com/centos7-install-docker)
-* [世界，你好！](https://blog.sprainkle.com/hello-solo)
 
 
 
