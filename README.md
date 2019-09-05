@@ -1,4 +1,4 @@
-<p align="center"><img alt="sprainkle 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="sprainkle 的个人博客" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABCElEQVRIS+2U7W3CMBRFTzboCDBBuwGMwAiM0BE6QjtBOwJsABuwAR2hG7Q6kZ9kHiYRP/KjKFeKhOzrdz9i0jExuonnMwuMNvyYFT0BK+AFOAFH4Gegiw3wfIubK1oDb8B7GarYtqwpVkMDcr8S17OHINYCizJYRxk74BX4LhsKu6ahDAUV7rm1QLiJIdmtAoFfYF9EsoDizur5IaCTT2A50LXCphT179YR9632UCcwmostXLgqVdp1K63nra+vuhZwuIM8mGFcX3K8PBPHhcjcMKnhq29R3AAdBHTik9PJPQMfQ9zWP1m3XkH7tgKdt1I5V1GT3OQ+5qdi4KbevzVXNNrZ/6/oD+z3NRmcDThpAAAAAElFTkSuQmCC"></p><h2 align="center">
 sprainkle 的个人博客
 </h2>
 
