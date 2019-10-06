@@ -10,6 +10,7 @@ sprainkle 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://blog.sprainkle.com/my-github-repos)
 * [CentOS 安装 Docker CE](https://blog.sprainkle.com/centos7-install-docker)
 
 
